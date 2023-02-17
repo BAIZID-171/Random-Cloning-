@@ -23,4 +23,6 @@ pkg install git
 
 git clone https://github.com/BAIZID-171/Random-Cloning-
 
+cd Random-Cloning-
+
 Python Free.py
